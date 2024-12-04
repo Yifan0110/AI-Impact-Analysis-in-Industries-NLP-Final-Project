@@ -59,11 +59,6 @@ The dataset consists of approximately 200K news articles (about 900 MB) related 
 - Tech giants like Microsoft, Google, Apple, Amazon, and Nvidia leading AI development, with emerging players like Samsung quickly making their mark.
 
 
-## Repository Structure
-- `code/`: Contains the Jupyter Notebook (`NLP_Final_Project.ipynb`) with the code for data preprocessing, analysis, and visualization.
-- `presentation/`: Contains the PowerPoint presentation (`NLP_Final_Project_Presentation.pptx`) summarizing the project findings.
-- `README.md`: Provides an overview of the project, methodology, results, and repository structure.
-
 ## Dependencies
 - Python
 - Jupyter Notebook
